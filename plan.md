@@ -3,3 +3,4 @@
 To create an AI financial assistant that automatically organizes payment information from UPI apps, bank SMS, emails, and purchase history into one timeline. Instead of manually checking multiple apps, the AI agent tracks transactions, detects issues, reminds users about pending actions, and prepares the next step when needed 
 hello
 hello 
+hello
